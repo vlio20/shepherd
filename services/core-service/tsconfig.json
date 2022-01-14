@@ -1,0 +1,7 @@
+{
+  "extends": "../common/typescript/tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./dist",
+    "baseUrl": "./"
+  }
+}
